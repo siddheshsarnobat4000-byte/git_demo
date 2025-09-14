@@ -1,2 +1,3 @@
 # git_demo
-my first repo in github
+my first repo in GitHub
+add local changes
